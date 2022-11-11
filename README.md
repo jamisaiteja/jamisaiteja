@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front-end Roles
 - 📫 How to reach me 
-    Mail Id:jamisaiteja666@gmail.com, 
+    MailId:jamisaiteja666@gmail.com, 
     Ph no:9705714345
 <!---
 jamisaiteja/jamisaiteja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
