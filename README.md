@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jami-yellow)](https://stackoverflow.com/users/20483561/jami-saiteja)
 
 I'm
-Full Stack Devloper
+Full Stack Web Developer
 
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python)front-end development (ReactJs, Redux, HTML5, CSS3, Javascript, Responsive, UX),database(Mysql,MongoDB). I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python)front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(Mysql). I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
 
 
 Languages and Tools: 
@@ -39,9 +39,9 @@ Languages and Tools:
 <!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
     </a> -->
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<!--     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
+    </a> -->
 <!--     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
     </a> -->
@@ -78,9 +78,9 @@ Languages and Tools:
 <!--     <a href="https://mochajs.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
     </a> -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
     </a>
@@ -108,9 +108,9 @@ Languages and Tools:
 <!--     <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
     </a> -->
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+<!--     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
+    </a> -->
 <!--     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
     </a> -->
